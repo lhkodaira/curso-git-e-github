@@ -19,4 +19,8 @@ Caso queira excluir uma branch pelo github:
 Para modificar a branch Default: 
 1 - Clicar no ícone de modificar a branch default
 2 - Solicitar que seja realizado a troca da branch default 
+<<<<<<< HEAD
 3 - Confirmar 
+=======
+3 - Confirmar 
+>>>>>>> modulo-3
