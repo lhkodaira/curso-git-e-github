@@ -10,6 +10,8 @@ Nesta aula estamos aprendendo comandos bem legais e úteis.
 ### git add . 
 **adiciona todos os arquivos para a esteira de commit**
 
+mudei mudei 
+
 ### git add [ caminho do arquivo]
 **vai adicionar um arquivo em específico** 
 
